@@ -1,4 +1,4 @@
-# Analiza Algoritmilor (AA) — Laboratoare 2026
+# Analiza Algoritmilor (AA) — Laboratoare 2025
 
 **Student:** Augustin Carazanu, FAF-243
 
